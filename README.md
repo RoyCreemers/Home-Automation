@@ -15,5 +15,5 @@ The HA (Home Assistant) Watchdog monitors HA from the Shelly Plus Plug S.
 
 #### Installation
 - Make sure Home Assistant has a fixed IP.
-- Modify [script](shelly/ha-watchdog.js) and change the Home Assistant IP address.
-- Install, enable and start the [script](shelly/ha-watchdog.js) as illustrated for example in the [Shelly script tutorial](https://shelly-api-docs.shelly.cloud/gen2/Scripts/Tutorial).
+- Modify [script](Shelly/ha-watchdog.js) and change the Home Assistant IP address.
+- Install, enable and start the [script](Shelly/ha-watchdog.js) as illustrated for example in the [Shelly script tutorial](https://shelly-api-docs.shelly.cloud/gen2/Scripts/Tutorial).
