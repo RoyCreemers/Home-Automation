@@ -1,2 +1,2 @@
-# Shelly-Scripts
-Shelly Scripts
+# Home-Automation
+Home Automation
